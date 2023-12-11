@@ -15,8 +15,8 @@
   `python encode_faces.py --dataset dataset --encodings encodings.pickle`
 
 - Recognize face in images:
-  
- `python recognize_faces_image.py --encodings encodings.pickle  --image <image-location>`
+
+  `python recognize_faces_image.py --encodings encodings.pickle  --image <image-location>`
 
 - Recognize face in video file:
 
